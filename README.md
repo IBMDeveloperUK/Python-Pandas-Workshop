@@ -8,7 +8,7 @@ This workshop is an introduction to Pandas where you will learn about:
 - Transforming and exploring data
 - Visualising data
 
-After an introduction to each of the subjects there will be some exercises to practice what you have learned.
+After an introduction to each of the subjects there will be some exercises to practice what you have learned. 
 
 ## Getting Started with Jupyter Notebooks
 
@@ -57,15 +57,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
   
  * The notebook will load. 
  
-To run the notebook each code cell in the notebook needs to be executed, in order, from top to bottom.
-
-Every code cell is selectable and is preceded by a tag in the left margin. The tagformat is `In [x]:`. Depending on the state of the notebook, the `x` can be:
-
-1. A blank, this indicates that the cell has never been executed.
-2. A number, this number represents the relative order this code step was executed.
-3. A `*`, this indicates that the cell is currently executing.
-
-To execute the code cells in your notebook select the cell, and then press the `Play` button in the toolbar.
+You are now ready to follow along with the workshop!
 
 
 
