@@ -54,7 +54,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ## Load and Run a Notebook
 
--  Add a new notebook. Click `Addd to project` and choose `Notebook`:
+-  Add a new notebook. Click `Add to project` and choose `Notebook`:
 
 ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/addnotebook.png)
 
