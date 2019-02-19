@@ -20,10 +20,10 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 - [Sign up](https://ibm.biz/BdZCKW) for an IBM Cloud account
 
-- Access Watson Studio. At the top of your IBM Cloud dashboard click `Create Resource`. You can find the dashboard under the hamburger menu at the top left:
+- At the top of the Resources page click `Create Resource`. You can find the resources under the hamburger menu at the top left:
 
-![](https://github.com/IBMDeveloperUK/jupyter-notebooks-101/blob/master/images/dashboard.png)
-
+ ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/resources.png)
+ 
 - Search for Watson Studio and click on the tile:
 
 ![](https://github.com/IBMDeveloperUK/jupyter-notebooks-101/blob/master/images/studio.png)
