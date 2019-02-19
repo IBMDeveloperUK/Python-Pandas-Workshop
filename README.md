@@ -29,7 +29,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 ![](https://github.com/IBMDeveloperUK/jupyter-notebooks-101/blob/master/images/studio.png)
 
 - Select the Lite plan and click `Create`.
-- Go back to the dashboard and click on your Watson Studio service and then click `Get Started`. 
+- Go back to the Resources list and click on your Watson Studio service and then click `Get Started`. 
 
 ![](https://github.com/IBMDeveloperUK/jupyter-notebooks-101/blob/master/images/launch.png)
 
