@@ -44,7 +44,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 ## Add Data to the Project
 
 - We will analyse data about the sizes of jeans pockets in this workshop. To do this you need to add the data to your project.
-- Download the `measurements.csv` file from [here](https://github.com/the-pudding/data/tree/master/pockets) to your laptop. A big thanks to Jan Diehm and Amber Thomas for going around shops, measuring the jeans and putting the data online for everyone to use.  
+- Download the `measurements.csv` file from [here](https://raw.githubusercontent.com/the-pudding/data/master/pockets/measurements.csv) to your laptop. A big thanks to Jan Diehm and Amber Thomas for going around shops, measuring the jeans and putting the data online for everyone to use.  
 - Add this file to your newly created project in Watson Studio by uploading the file in the right side menu (click the 1010 button if you do not see this): 
 
  ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/upload.png)
