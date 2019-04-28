@@ -18,9 +18,9 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ## IBM Cloud
 
-- [Sign up](https://ibm.biz/pandas_workshop) for an IBM Cloud account
+- [Sign up](https://ibm.biz/Bd2bcL) for an IBM Cloud account
 
-- At the top of the Resources page click `Create Resource`. You can find the resources under the hamburger menu at the top left:
+- When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
 
  ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/resources.png)
  
@@ -55,7 +55,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/addnotebook.png)
 
-- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/pandas-workshop-v2.ipynb`
+- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/pandas-workshop.ipynb`
 - Select the default runtime and click `Create Notebook`. 
 -  The notebook will load. 
  
