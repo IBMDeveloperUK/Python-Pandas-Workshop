@@ -1,3 +1,5 @@
+**[Sign up](https://ibm.biz/Bd2bcL) for an IBM Cloud account**
+
 # Data Science - Python and Pandas
 
 Pandas is one of the main Python libraries for manipulating and analysing structured data and one of the first things to learn if you want to get started with data science.
