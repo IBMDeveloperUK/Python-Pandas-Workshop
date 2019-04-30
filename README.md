@@ -1,4 +1,4 @@
-# Before you start: [Sign up](https://ibm.biz/Bd2bcL) for an IBM Cloud account
+# Before you start: [Sign up](https://ibm.biz/Bd2bcL) for an IBM Cloud account: https://ibm.biz/Bd2bcL
 Then follow the instructions below.
 
 # Data Science - Python and Pandas
