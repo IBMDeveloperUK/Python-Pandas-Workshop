@@ -18,7 +18,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ## IBM Cloud
 
-- [Sign up](https://ibm.biz/Bd2bcL) for an IBM Cloud account
+- [Sign up](https://ibm.biz/BdzPRF) for an IBM Cloud account
 
 - When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
 
