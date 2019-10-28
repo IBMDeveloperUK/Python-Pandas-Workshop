@@ -55,7 +55,7 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/addnotebook.png)
 
-- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/pandas-workshop-v3.ipynb`
+- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/foss4g-geopandas/blob/master/notebooks/1-pandas-workshop.ipynb`
 - Select the default runtime and click `Create Notebook`. 
 -  The notebook will load. 
  
