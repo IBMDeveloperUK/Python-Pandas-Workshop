@@ -18,7 +18,7 @@ There are many options when working with the data using pandas. The following li
 
 This list is far from complete. See the pandas [documentation](https://pandas.pydata.org/docs/) for more of what you can do.
 
-This tutorial walks you though some of the most interesting features of pandas using structured data that contains information about the boroughs in London. You can download the data used in the tutorial from [data.gov.uk](https://data.gov.uk/dataset/248f5f04-23cf-4470-9216-0d0be9b877a8/london-borough-profiles-and-atlas).
+This workshop walks you though some of the most interesting features of pandas using structured data that contains information about the boroughs in London. You can download the data used in the tutorial from [data.gov.uk](https://data.gov.uk/dataset/248f5f04-23cf-4470-9216-0d0be9b877a8/london-borough-profiles-and-atlas).
  
 ## Getting Started with Jupyter Notebooks
 
