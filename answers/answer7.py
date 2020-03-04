@@ -1,1 +1,0 @@
-jeans.groupby(['menWomen']).count()
