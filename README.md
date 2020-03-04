@@ -1,16 +1,29 @@
-# Data Science - Python and Pandas
+# Data analysis in Python using pandas
 
-Pandas is one of the main Python libraries for manipulating and analysing structured data and one of the first things to learn if you want to get started with data science.
+You might think that **Python** is only for developers and people with computer science degrees. However, Python is great for beginners, even those with little coding experience because it’s free, open source, and runs on any platform. The Python packages documentation is great, and after an [introductory course](https://cognitiveclass.ai/learn/data-science-with-python), you have a good foundation to build on.
 
-This workshop is an introduction to Pandas where you will learn about:
-- Jupyter notebooks
-- Pandas data structures
-- Transforming and exploring data
-- Visualising data
+Python is a general purpose and high-level programming language that is used for more than working with data. For example, it’s good for developing desktop GUI applications, websites, and web applications. However, this tutorial focuses on the data and only goes through getting started with data.
 
-After an interactive overview for each of the subjects there will be some exercises to practice what you have learned. 
+**pandas** is an open source Python Library that provides high-performance data manipulation and analysis. With the combination of Python and pandas, you can accomplish five typical steps in the processing and analysis of data, regardless of the origin of data: load, prepare, manipulate, model, and analyze.
 
+There are many options when working with the data using pandas. The following list shows some of the things that can be done using pandas.
+
+* Cleaning data by removing or replacing missing values
+* Converting data formats
+* Sorting rows
+* Deleting or adding rows and columns
+* Merging or joining DataFrames
+* Summarizing data by pivoting or reshaping
+* Creating visualizations
+
+This list is far from complete. See the pandas [documentation](https://pandas.pydata.org/docs/) for more of what you can do.
+
+This tutorial walks you though some of the most interesting features of pandas using structured data that contains information about the boroughs in London. You can download the data used in the tutorial from [data.gov.uk](https://data.gov.uk/dataset/248f5f04-23cf-4470-9216-0d0be9b877a8/london-borough-profiles-and-atlas).
+ 
 ## Getting Started with Jupyter Notebooks
+
+Instead of writing code in a text file and then running the code with a Python command in the terminal, you can do all of your data analysis in one place. Code, output, tables, and charts can all be edited and viewed in one window in any web browser with [Jupyter Notebooks](https://jupyter.org/). As the name suggests, this is a notebook to keep all of your ideas and data explorations in one place. In this tutorial, you use [IBM Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-ws.html) to run a notebook. For this, you need a free IBM Cloud account. The following steps show you how sign up and get started. When you have the notebook up and running, you can go through the notebook.
+
 
 Jupyter notebooks are an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. 
 
@@ -41,25 +54,18 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 - Select an Object Storage from the drop-down menu or create a new one for free. This is used to store the notebooks and data. **Do not forget to click refresh when returning to the Project page.**
 - click `Create`.  
 
-## Add Data to the Project
-
-- We will analyse data about the sizes of jeans pockets in this workshop. To do this you need to add the data to your project.
-- Download the `london-borough-profiles.csv` file from [here](https://raw.githubusercontent.com/IBMDeveloperUK/python-pandas-workshop/master/london-borough-profiles.csv) (Right click and save as a csv file). A big thanks to Jan Diehm and Amber Thomas for going around shops, measuring the jeans and putting the data online for everyone to use.  
-- Add this file to your newly created project in Watson Studio by uploading the file in the right side menu (click the 1010 button if you do not see this): 
-
- ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/upload.png)
-
 ## Load and Run a Notebook
 
 -  Add a new notebook. Click `Add to project` and choose `Notebook`:
 
 ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/addnotebook.png)
 
-- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/python-pandas-workshop/blob/master/1-pandas-workshop.ipynb`
+- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/python-pandas-workshop/blob/master/Working-with-structured-data-in-Python-using-Pandas.ipynb`
 - Select the default runtime and click `Create Notebook`. 
 -  The notebook will load. 
- 
 You are now ready to follow along with the workshop in the notebook!
 
+## References
 
+Find the [tutorial](https://developer.ibm.com/technologies/analytics/tutorials/data-analysis-in-python-using-pandas) on [IBM Developer](https://developer.ibm.com).
 
