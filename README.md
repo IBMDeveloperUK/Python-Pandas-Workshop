@@ -31,28 +31,39 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ## IBM Cloud
 
-- [Sign up](https://ibm.biz/datafestscotland) for an IBM Cloud account.
+- http://ibm.biz/ibmcloudaccount Use this link to sign up for an IBM Cloud account
 
 - When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
 
- ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/resources.png)
+ ![](Images/Create_resource.png)
  
 - Search for Watson Studio and click on the tile:
 
-![](https://github.com/IBMDeveloperUK/jupyter-notebooks-101/blob/master/images/studio.png)
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/Watson_Studio.png)
 
 - Select the Lite plan and click `Create`.
 - Go back to the Resources list and click on your Watson Studio service and then click `Get Started`. 
 
-![](https://github.com/IBMDeveloperUK/jupyter-notebooks-101/blob/master/images/launch.png)
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/launch.png)
 
 ## IBM Watson Studio
 
+### Create a new Project
+
 - You should now be in Watson Studio.
-- Create a new project by clicking on `Get Started` and `New Project`, or `Create Project`. Choose a `Standard` project.
+- Create a new project by clicking on `Get Started` and `New Project`, or `Create Project`
+
+
+![](https://github.com/YaminiRao/Data-Visualisation-with-Python/blob/master/Images/Watson_Studio.png)
+
+
 - Give your Project a name.
 - Select an Object Storage from the drop-down menu or create a new one for free. This is used to store the notebooks and data. **Do not forget to click refresh when returning to the Project page.**
+
+![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/COS.png)
+
 - click `Create`.  
+
 
 ## Load and Run a Notebook
 
