@@ -34,10 +34,9 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 - http://ibm.biz/ibmcloudaccount Use this link to sign up for an IBM Cloud account
 
 - When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
-
  ![](Images/Create_resource.png)
  
-- Search for Watson Studio and click on the tile:
+-  or Search for Watson Studio and click on the tile:
 
 ![](https://github.com/IBMDeveloperUK/Machine-Learning-Models-with-AUTO-AI/blob/master/Images/Watson_Studio.png)
 
@@ -65,11 +64,11 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 - click `Create`.  
 
 
-## Load and Run a Notebook
+## 4. Load and run a notebook
 
 -  Add a new notebook. Click `Add to project` and choose `Notebook`:
 
-![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/addnotebook.png)
+![](https://github.com/IBMDeveloperUK/python-geopandas-workshop/blob/master/images/notebook.png)
 
 - Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/python-pandas-workshop/blob/master/Working-with-structured-data-in-Python-using-Pandas.ipynb`
 - Select the default runtime and click `Create Notebook`. 
